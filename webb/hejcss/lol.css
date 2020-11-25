@@ -43,7 +43,7 @@ color: green;
 body{
 background-image: url(Pc.jpg);
 background-repeat: no-repeat;
-background-size: 1920px 1080px;
+background-size: 100%;
 
 }
 
