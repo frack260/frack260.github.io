@@ -1,0 +1,65 @@
+ul{
+
+list-style-type: none;
+margin-top: 0;
+overflow:hidden;
+display: inline-block;
+
+
+text-align: center;
+
+}
+
+
+
+ul li{
+background-color: #8f9f87;
+float: left;
+
+
+
+}
+
+
+
+
+ul li a {
+text-decoration: none;
+
+display: block;
+padding: 45px;
+
+
+color: white;
+
+}
+
+ul li a:hover {
+color: green;
+}
+
+
+
+body{
+background-image: url(Pc.jpg);
+background-repeat: no-repeat;
+background-size: 1500px 1080px;
+
+}
+
+
+
+nav{
+
+
+
+
+}
+
+
+h2{
+
+text-align: center;
+color: white;
+
+}
