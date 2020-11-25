@@ -40,7 +40,7 @@ color: green;
 
 
 
-body{
+.bild{
 background-image: url(Pc.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
@@ -61,5 +61,42 @@ h2{
 
 text-align: center;
 color: white;
+
+}
+
+
+
+
+.Grafikkort{
+
+  list-style-type: none;
+
+  margin: auto;
+
+width: 60%;
+height: 700px;
+
+
+    border: 5px solid #FFFF00;
+
+
+    padding: 10px;
+
+
+
+
+
+
+
+
+    background-color: white;
+  text-align: center;
+
+
+
+}
+.bilden{
+width: 90%;
+height: 60%
 
 }
