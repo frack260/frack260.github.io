@@ -100,3 +100,60 @@ width: 90%;
 height: 60%
 
 }
+
+.källa a {
+
+  text-decoration: none;
+
+  color: yellow;
+
+}
+
+
+
+.källa{
+display: block;
+text-align: center;
+background-color: Green;
+word-spacing: 100px;
+width: 20%;
+margin:auto;
+height: 50%;
+padding-top: 10px;
+padding-bottom: 10px;
+display: block;
+
+}
+
+
+
+.källa a:hover {
+color: red;
+
+
+}
+
+
+
+.källor{
+display: block;
+text-align: center;
+
+width: 20%;
+margin:auto;
+height: 50%;
+padding-top: 10px;
+padding-bottom: 10px;
+display: block;
+
+}
+
+
+
+
+
+li{
+list-style-type: none;
+
+
+}
